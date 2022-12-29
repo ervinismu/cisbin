@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cisbin (0.1.0)
+    cisbin (0.1.1)
       gem-release
       rails (>= 7.0.4)
 
