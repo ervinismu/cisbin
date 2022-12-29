@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     cisbin (0.1.0)
+      gem-release
       rails (>= 7.0.4)
 
 GEM
@@ -77,6 +78,7 @@ GEM
     crass (1.0.6)
     date (3.3.3)
     erubi (1.12.0)
+    gem-release (2.2.2)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.12.0)
